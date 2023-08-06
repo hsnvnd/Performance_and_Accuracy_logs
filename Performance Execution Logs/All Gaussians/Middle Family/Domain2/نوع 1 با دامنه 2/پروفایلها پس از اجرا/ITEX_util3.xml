@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><utility_space> 
+<objective description="" etype="objective" index="0" name="ITEX" type="objective"> 
+<issue etype="discrete" index="1" name="price" type="discrete" vtype="discrete"> 
+<item evaluation="0.9999967487554307" index="1" value="3.47"> 
+</item> 
+<item evaluation="0.9999990887504558" index="2" value="3.71"> 
+</item> 
+<item evaluation="1.0" index="3" value="3.98"> 
+</item> 
+<item evaluation="0.9999997550000409" index="4" value="4.12"> 
+</item> 
+<item evaluation="0.9999980987518924" index="5" value="4.37"> 
+</item> 
+</issue> 
+<issue etype="discrete" index="2" name="delivery" type="discrete" vtype="discrete"> 
+<item evaluation="0.9987507809803904" index="1" value="20"> 
+</item> 
+<item evaluation="1.0" index="2" value="30"> 
+</item> 
+<item evaluation="0.9971914514982203" index="3" value="45"> 
+</item> 
+<item evaluation="0.9888130451085213" index="4" value="60"> 
+</item> 
+</issue> 
+<issue etype="discrete" index="3" name="payment" type="discrete" vtype="discrete"> 
+<item evaluation="0.9888130451085213" index="1" value="0"> 
+</item> 
+<item evaluation="1.0" index="2" value="30"> 
+</item> 
+<item evaluation="0.9888130451085213" index="3" value="60"> 
+</item> 
+</issue> 
+<issue etype="discrete" index="4" name="returns" type="discrete" vtype="discrete"> 
+<item evaluation="0.9996875488370047" index="1" value="5"> 
+</item> 
+<item evaluation="1.0" index="2" value="10"> 
+</item> 
+<item evaluation="0.9037070819635801" index="3" value="100"> 
+</item> 
+</issue> 
+<weight index="1" value="0.28411754704374026"> 
+</weight> 
+<weight index="2" value="0.19420436096780253"> 
+</weight> 
+<weight index="3" value="0.24324917803179694"> 
+</weight> 
+<weight index="4" value="0.274"> 
+</weight> 
+</objective> 
+<discount_factor value="1.0"> 
+</discount_factor> 
+<reservation value="0.0"> 
+</reservation> 
+</utility_space>
